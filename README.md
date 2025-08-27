@@ -18,5 +18,6 @@
 - 🧠 [DSA Practice](https://github.com/Shaurya-Rathore/DSA-Java) – Java-based algorithms & problem solving
 
 ## 📫 Let's Connect
+-     Github : https://github.com/shauryaplayer1
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shaurya-rathore)
 - 📧 shaurya@example.com
