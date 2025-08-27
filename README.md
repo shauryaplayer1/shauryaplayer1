@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaurya Rathore
 
-<!--
-**shauryaplayer1/shauryaplayer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ GLA University (2028)  
+💻 Learning Java, DSA & Full Stack Web Development  
+🚀 Passionate about building modern, responsive web apps  
+📈 Preparing for top tech placements with hands-on projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💡 Languages: Java, JavaScript, HTML, CSS
+- 🧠 DSA: Practicing with Java
+- 🌐 Frontend: React.js, Tailwind CSS
+- 🔧 Backend: Node.js, Express.js, MongoDB
+- 🧰 Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🔗 [Portfolio Website](https://github.com/Shaurya-Rathore/portfolio) – Clean, responsive, recruiter-friendly
+- 📊 [Timetable App](https://github.com/Shaurya-Rathore/timetable-app) – Semantic HTML + CSS Grid
+- 🧠 [DSA Practice](https://github.com/Shaurya-Rathore/DSA-Java) – Java-based algorithms & problem solving
+
+## 📫 Let's Connect
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shaurya-rathore)
+- 📧 shaurya@example.com
