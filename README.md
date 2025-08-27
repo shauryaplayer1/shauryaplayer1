@@ -60,12 +60,3 @@
 
 ---
 
-### 🪄 Bonus Flair Ideas
-
-- Add a **custom visitor counter** using `profile-views-counter`
-- Use **GitHub Actions** to auto-update your README with latest commits or blog posts
-- Embed **code snippets** or **live project previews** with iframes or badges
-
----
-
-Want me to help you build this live on your GitHub or polish your portfolio site next?
