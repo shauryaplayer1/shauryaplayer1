@@ -31,22 +31,30 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-> Note: I removed the third-party streak widget that was producing an incorrect *longest streak date*. If you want precise streak & date info I'll show a script below that computes them directly from GitHub's GraphQL API.
+### 📊 GitHub Highlights
 
 <p align="center">
-  <!-- Main GitHub stats -->
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRathore&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="160" />
-
-  <!-- Top languages -->
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRathore&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <!-- Contribution graph (visual calendar) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRathore&theme=radical&hide_border=true" alt="Contribution Graph"/>
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRathore&theme=radical&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
+
+---
+
+### 🧠 Featured Projects
+
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| **Animated Portfolio** | HTML, CSS, JS | Recruiter-focused, responsive, modern UI |
+| **DSA Tracker App** | Java, MySQL | Tracks progress, visualizes mastery |
+| **Login UI Clone** | React, Tailwind | Pixel-perfect clone with animations |
 
 ---
 
@@ -58,11 +66,4 @@
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
----
-
-### 🧠 Featured Projects
-
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| **Animated Portfo**
 
