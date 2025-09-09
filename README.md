@@ -27,15 +27,28 @@
 - 💻 Currently diving deep into **Java**, **DSA**, and **Full Stack Web Development**  
 - 🧠 Passionate about building **modern, animated portfolios** and **recruiter-friendly projects**  
 - 🎯 Goal: Land a **top placement** with high-impact tech roles  
-- 🕹️ Gamer | 🎨 UI Design Enthusiast | 🧩 Coding Challenge Lover
+- 🕹️ Gamer | 🎨 UI Design Enthusiast | 🧩 Coding Challenge Lover  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRathore&show_icons=true&theme=radical" alt="Shaurya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShauryaRathore&theme=radical" alt="Shaurya's GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRathore&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="180em" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=ShauryaRathore&theme=radical&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRathore&layout=compact&theme=radical&hide_border=true" height="150em" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRathore&theme=radical&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -44,7 +57,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaurya-rathore-b89154326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="shaurya.rathore_cs24@gla.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shaurya.rathore_cs24@gla.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
@@ -57,6 +70,4 @@
 | **Animated Portfolio** | HTML, CSS, JS | Recruiter-focused, responsive, modern UI |
 | **DSA Tracker App** | Java, MySQL | Tracks progress, visualizes mastery |
 | **Login UI Clone** | React, Tailwind | Pixel-perfect clone with animations |
-
----
 
