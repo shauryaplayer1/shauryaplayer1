@@ -1,69 +1,57 @@
-<h1 align="center">Hi 👋, I'm Shaurya Rathore</h1>
-<h3 align="center">🚀 2nd Year B.Tech CSE Student at GLA University | Java & Full Stack Developer</h3>
+# 👋 Hi — I'm **Shaurya Rathore**
+
+🎓 Second-year **Computer Science** student at **GLA University**  
+💡 Focused on **DSA (Java) → Full-Stack Development → Cyber Security**  
+🚀 I love turning ideas into real projects and learning secure coding practices.
+
+---
+
+## ✨ What I’m Working On
+- 🔁 Practicing **DSA with Java** daily  
+- 🌐 Building **Full-Stack apps** (React + Node + Mongo/MySQL)  
+- 🔒 Exploring **Cyber Security basics** (OWASP, web app vulnerabilities, secure coding)  
+
+---
+
+## 🛠 Tech Stack
+**Core:** Java (DSA), C++, Python, JavaScript (ES6+)  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** MongoDB, MySQL  
+**Dev Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📊 GitHub Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+Extraordinary+Web+Experiences;Mastering+Java+%26+DSA;Building+Recruiter-Friendly+Projects" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryaplayer1&show_icons=true&theme=tokyonight" alt="Shaurya's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaplayer1&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+## 📈 Roadmap
+1. **Short term:** Master DSA in Java (arrays, trees, graphs, DP)  
+2. **Mid term:** Build 3–5 full-stack apps with authentication & deployment  
+3. **Long term:** Learn core Cyber Security and contribute to secure open-source projects  
 
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ✨ About Me
-
-- 🎓 2nd Year B.Tech CSE @ GLA University  
-- 💻 Currently diving deep into **Java**, **DSA**, and **Full Stack Web Development**  
-- 🧠 Passionate about building **modern, animated portfolios** and **recruiter-friendly projects**  
-- 🎯 Goal: Land a **top placement** with high-impact tech roles  
-- 🕹️ Gamer | 🎨 UI Design Enthusiast | 🧩 Coding Challenge Lover  
-
----
-
-### 📊 GitHub Highlights
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRathore&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="160" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRathore&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRathore&theme=radical&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🧠 Featured Projects
-
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| **Animated Portfolio** | HTML, CSS, JS | Recruiter-focused, responsive, modern UI |
-| **DSA Tracker App** | Java, MySQL | Tracks progress, visualizes mastery |
-| **Login UI Clone** | React, Tailwind | Pixel-perfect clone with animations |
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaurya-rathore-b89154326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shaurya.rathore_cs24@gla.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
-
+✨ *“Code, Learn, Repeat — That’s the Developer’s Way!”* ✨
 
