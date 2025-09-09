@@ -31,23 +31,20 @@
 
 ---
 
-### 📊 GitHub Stats & Activity  
+### 📊 GitHub Stats & Activity
+
+> Note: I removed the third-party streak widget that was producing an incorrect *longest streak date*. If you want precise streak & date info I'll show a script below that computes them directly from GitHub's GraphQL API.
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRathore&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="180em" />
+  <!-- Main GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRathore&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="160" />
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=ShauryaRathore&theme=radical&hide_border=true" height="180em" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRathore&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRathore&layout=compact&theme=radical&hide_border=true" height="150em" />
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
+  <!-- Contribution graph (visual calendar) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRathore&theme=radical&hide_border=true" alt="Contribution Graph"/>
 </p>
 
@@ -67,7 +64,5 @@
 
 | Project | Tech Stack | Highlights |
 |--------|------------|------------|
-| **Animated Portfolio** | HTML, CSS, JS | Recruiter-focused, responsive, modern UI |
-| **DSA Tracker App** | Java, MySQL | Tracks progress, visualizes mastery |
-| **Login UI Clone** | React, Tailwind | Pixel-perfect clone with animations |
+| **Animated Portfo**
 
