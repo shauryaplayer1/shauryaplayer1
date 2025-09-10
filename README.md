@@ -1,8 +1,22 @@
 # 👋 Hi, I'm Shaurya Rathore  
 
 🎓 2nd Year CS Student @ GLA University  
-💡 Learning **DSA with Java → Full-Stack Development → Cyber Security**  
+💡 Exploring **DSA with Java → Full-Stack Development → Cyber Security**  
 🚀 Beginner on a journey to become a better coder every day  
+
+---
+
+## 🔥 Profile Animations
+
+<p align="center">
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaurya+Rathore;CS+Student+%40+GLA+University;DSA+%7C+Full-Stack+%7C+Cyber+Security;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=shauryaplayer1&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
@@ -40,3 +54,4 @@
 ---
 
 ✨ *Just starting out — every line of code is a step forward.* ✨
+
