@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 Profile Animations
+## 🔥 Profile
 
 <p align="center">
   <!-- Typing animation -->
