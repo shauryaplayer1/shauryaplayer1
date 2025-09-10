@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 Profile
+## 🔥 Profile Animations
 
 <p align="center">
   <!-- Typing animation -->
@@ -16,6 +16,14 @@
 <p align="center">
   <!-- Visitor counter -->
   <img src="https://komarev.com/ghpvc/?username=shauryaplayer1&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryaplayer1&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
