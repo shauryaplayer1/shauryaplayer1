@@ -73,8 +73,3 @@
 
 ---
 
-<!-- 🚀 Pro Footer -->
-<p align="center">
-  <img src="https://i.ibb.co/XxMTXJ5/footer-coding.gif" alt="footer animation" width="800"/>
-</p>
-
