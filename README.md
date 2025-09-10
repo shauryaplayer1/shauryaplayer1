@@ -1,6 +1,6 @@
 <!-- 🔥 Pro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Shaurya+Rathore+👨‍💻;2nd+Year+CS+Student+%40+GLA+University;DSA+with+Java+%7C+Full-Stack+Learner+%7C+Cyber+Security+Explorer" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Shaurya+Rathore+👨‍💻;2nd+Year+CS+Student+%40+GLA+University;DSA+with+Java+%7C+Full-Stack+Learner+%7C+Cyber+Security+Explorer" alt="Typing Intro"/>
 </p>
 
 <p align="center">
