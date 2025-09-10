@@ -1,21 +1,28 @@
-# 👋 Hi, I'm Shaurya Rathore  
-
-🎓 2nd Year CS Student @ GLA University  
-💡 Exploring **DSA with Java → Full-Stack Development → Cyber Security**  
-🚀 Beginner on a journey to become a better coder every day  
-
----
-
-## 🔥 Profile 
-
+<!-- 🔥 Pro Banner -->
 <p align="center">
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaurya+Rathore;CS+Student+%40+GLA+University;DSA+%7C+Full-Stack+%7C+Cyber+Security;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Shaurya+Rathore+👨‍💻;2nd+Year+CS+Student+%40+GLA+University;DSA+with+Java+%7C+Full-Stack+Learner+%7C+Cyber+Security+Explorer" alt="Typing Intro"/>
 </p>
 
 <p align="center">
+  <img src="https://i.ibb.co/rHv7gVm/coding-banner.gif" alt="coding banner" width="800"/>
+</p>
+
+---
+
+# 👋 About Me  
+
+- 🎓 2nd Year **CS Student @ GLA University**  
+- 💡 Currently learning **DSA with Java** → exploring **Full-Stack Development** → curious about **Cyber Security**  
+- 🚀 Beginner but improving every single day  
+- ✨ Believe: *Every line of code is a step forward*  
+
+---
+
+## 🔥 Profile Views
+
+<p align="center">
   <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=shauryaplayer1&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shauryaplayer1&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -23,14 +30,16 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryaplayer1&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryaplayer1&theme=matrix&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 🛠 Tech I’m Learning
+
 - **Languages:** Java, C++, Python, JavaScript  
-- **Web:** HTML, CSS, React, Node.js, Express  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, GitHub, VS Code, Postman  
 
@@ -39,27 +48,33 @@
 ## 📊 GitHub Journey  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryaplayer1&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaplayer1&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryaplayer1&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaplayer1&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shauryaplayer1&theme=tokyonight&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=shauryaplayer1&theme=radical&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake Animation
+
 ![snake gif](https://github.com/shauryaplayer1/shauryaplayer1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🎯 Goals
-- Master **DSA in Java**  
-- Build & deploy **full-stack projects**  
-- Explore **cyber security basics**  
+
+- ✅ Master **DSA in Java**  
+- ✅ Build & deploy **full-stack projects**  
+- ✅ Explore **cyber security basics**  
+- ✅ Contribute to **open-source projects**  
 
 ---
 
-✨ *Just starting out — every line of code is a step forward.* ✨
+<!-- 🚀 Pro Footer -->
+<p align="center">
+  <img src="https://i.ibb.co/XxMTXJ5/footer-coding.gif" alt="footer animation" width="800"/>
+</p>
 
